@@ -153,7 +153,7 @@ For additional guidelines, refer to `CONTRIBUTING.md` if available.
 
 ## 👨‍💻 Author
 
-**Vaibhav Acharya**
+  **Furkan Shaikh**
 
 ---
 
